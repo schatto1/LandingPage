@@ -1,9 +1,17 @@
 body {
   background: url(https://images.unsplash.com/photo-1486078695445-0497c2f58cfe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1ac57ea0e6379ebce5573c41cfab33aa&auto=format&fit=crop&w=1267&q=80);
   background-size: cover;
+  background-position: center;
+  font-family: "Lato";
+  color: white;
 }
 
 #content {
   text-align: center;
   padding-top: 25%;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
 }
